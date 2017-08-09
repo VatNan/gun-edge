@@ -28,7 +28,7 @@
   "author": "Kristian Mandrup <kmandrup@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "gun": "0.8.6"
+    "gun": "0.8.0"
   },
   "devDependencies": {
     "ava": "^0.18.2",
