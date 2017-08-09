@@ -1,5 +1,7 @@
 # Gun edge
 
+# Fix version gun.js to v0.8.0
+
 Extra DSL extensions for [Gun.js](http://gun.js.org/)
 
 Many of the snippets were extracted from [Gun Snippets 0.3.x](https://github.com/amark/gun/wiki/Snippets-(v0.3.x)) and upgraded to work with Gun +0.6
